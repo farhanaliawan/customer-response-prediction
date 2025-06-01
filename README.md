@@ -125,7 +125,7 @@ This project fulfills the requirements of **Assignment 4**:
 ## 🖼️ Screenshots
 
 ### Streamlit Frontend
-![Streamlit Interface]()
+![Streamlit Interface](https://github.com/farhanaliawan/customer-response-prediction/blob/main/Capture.PNG?raw=true)
 *Caption: Streamlit interface for entering customer data and predicting response.*
 
 ---
