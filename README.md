@@ -95,7 +95,7 @@ Follow these steps to set up and run the project locally.
   - `max_depth`: 5
 
 ### MLflow UI Screenshot
-![MLflow Screenshot](mlflow_screenshot.png)
+![MLflow Screenshot](E:\all data date 4 march 2025\Desktop\output.PNG)
 
 ---
 
