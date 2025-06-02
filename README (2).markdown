@@ -112,7 +112,7 @@ Follow these steps to set up and run the project locally.
   - `max_depth`: 5
 
 ### MLflow UI Screenshot
-![MLflow UI Screenshot](mlflow_screenshot.png)
+![MLflow UI Screenshot](https://github.com/farhanaliawan/customer-response-prediction/blob/main/output.PNG?raw=true)
 *Caption: MLflow UI showing the Customer_Response_Prediction experiment with logged metrics and parameters.*
 
 ---
